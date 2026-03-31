@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package demo;
+
+option java_package = "com.example.demo.proto";
+option java_outer_classname = "UserMessages";
+
+message User {
+  int32 id = 1;
+  string name = 2;
+  string email = 3;
+}
