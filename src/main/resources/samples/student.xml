@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <id>1</id>
+  <firstName>John</firstName>
+  <lastName>Doe</lastName>
+  <email>john.doe@example.com</email>
+  <group>CS-101</group>
+  <yearOfStudy>2</yearOfStudy>
+  <active>true</active>
+  <address>
+    <country>USA</country>
+    <city>New York</city>
+    <street>123 Main St</street>
+  </address>
+  <courses>
+    <course>
+      <name>Java Programming</name>
+      <code>JAVA101</code>
+    </course>
+    <course>
+      <name>Data Structures</name>
+      <code>DS201</code>
+    </course>
+  </courses>
+</student>

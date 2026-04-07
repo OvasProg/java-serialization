@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "john.doe@example.com",
+  "group": "CS-101",
+  "yearOfStudy": 2,
+  "active": true,
+  "address": {
+    "country": "USA",
+    "city": "New York",
+    "street": "123 Main St"
+  },
+  "courses": [
+    {
+      "name": "Java Programming",
+      "code": "JAVA101"
+    },
+    {
+      "name": "Data Structures",
+      "code": "DS201"
+    }
+  ]
+}
